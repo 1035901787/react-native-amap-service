@@ -1,0 +1,3 @@
+rootProject.name = 'Amap_service'
+
+include ':app'
